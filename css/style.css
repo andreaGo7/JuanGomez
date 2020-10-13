@@ -51,3 +51,28 @@ body {
   color: aliceblue;
   height: 100%;
 }
+ 
+.uno{
+  background:linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ),  url("../img/3.jpg") top center;
+  background-size: cover;
+ }
+ .dos{
+  background:linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ),  url("../img/3.jpg") top center;
+  background-size: cover;
+ }
+ .tres{
+  background:linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ),  url("../img/3.jpg") top center;
+  background-size: cover;
+ }
+ .cuatro{
+  background:linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ),  url("../img/3.jpg") top center;
+  background-size: cover;
+ }
+ .cinco{
+  background:linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ),  url("../img/3.jpg") top center;
+  background-size: cover;
+ }
+ .seis{
+  background:linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ),  url("../img/3.jpg") top center;
+  background-size: cover;
+ }
